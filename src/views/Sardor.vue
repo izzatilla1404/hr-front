@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="text-warning">
-      salom
+      salom dunyo
     </div>
   </div>
 </template>
